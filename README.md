@@ -84,9 +84,7 @@ python pro_max.py --data_path ./data
 
 ## 📊 结果展示
 
-![预测结果](amazon_close_price_trend.png)
-
-
+![预测结果]<img width="1481" height="1026" alt="5046fec2-c61f-4df0-9e75-a130b51ab10c" src="https://github.com/user-attachments/assets/365bde4a-38f7-4f47-b99c-b616cd449c7f" />
 *（上图为预测轨迹与真实轨迹对比，蓝色为历史轨迹，绿色为真实未来轨迹，红色虚线为预测轨迹）*
 
 ---
